@@ -15,10 +15,10 @@ from config import consumer_key, consumer_secret, access_token, access_token_sec
 
 
 # Twitter API Keys
-consumer_key = consumer_key
-consumer_secret = consumer_secret
-access_token = access_token
-access_token_secret = access_token_secret
+consumer_key = "5uxqcITPMH9boFAFM1R8PgpQa"
+consumer_secret = "zJ235Uzde59tPNf4yQKa534BrZVX0i5uocb7gMTk2ie6BYkNFp"
+access_token = "979169794699046913-ueoRRT7H6JplKK2aJWXT78NvKRlqdB8"
+access_token_secret = "TyqqadYqYosiW8JfvkHclgqkhvD7F4I89iDb0b6NneMch"
 
 
 # In[3]:
